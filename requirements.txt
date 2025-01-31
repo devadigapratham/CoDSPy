@@ -1,0 +1,5 @@
+dspy
+gradio
+torch
+transformers
+ollama
